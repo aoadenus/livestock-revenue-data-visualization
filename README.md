@@ -1,24 +1,53 @@
-# Livestock Revenue Data Visualization
+# 🐄 Livestock Revenue Data Visualization
 
-This project analyzes livestock revenue data using 2022 USDA Census data to identify trends across different farm sizes and production categories.
+> Analyzes cattle and hog revenue patterns by farm size using 2022 USDA Census data — revealing how scale shapes agricultural economic performance.
 
-The analysis focuses on how cattle and hog sales vary by farm size and demonstrates how data visualization can reveal patterns in agricultural productivity and economic performance.
+[![View Repository](https://img.shields.io/badge/📂_View_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aoadenus/livestock-revenue-data-visualization)
 
-## Key Insights
-- Larger farms (2,000+ acres) dominate cattle revenue
-- Hog revenue is more evenly distributed across farm sizes
-- Farm size directly impacts total revenue, with different patterns by livestock type
-- Effective data visualization is critical for uncovering accurate insights
+---
 
-## Tools Used
-- Tableau
-- Data Visualization
-- Spreadsheet Analysis
-- Data Interpretation
+## Overview
 
-## Dataset
-USDA Census Data (2022)
+This project analyzes livestock revenue trends using 2022 USDA Census data, with a focus on how farm size relates to cattle and hog sales across production categories. The analysis demonstrates how effective data visualization can surface patterns in agricultural productivity and economic performance that are difficult to see in raw tabular data.
 
-## Author
-Adetutu (Tutu) Adenusi
-Computer Information Systems, University of Houston
+A key finding: cattle and hog revenue distribute very differently across farm sizes. Treating them the same leads to misleading conclusions — and this project makes that visible.
+
+---
+
+## Features
+
+- 📊 Comparative analysis of cattle vs. hog revenue across farm size categories (under 50 acres to 2,000+ acres)
+- 🔍 Identification that larger farms (2,000+ acres) dominate cattle revenue while hog revenue distributes more evenly
+- 📈 Visualization of how farm scale directly impacts total revenue, with livestock-type-specific patterns
+- 🎯 Demonstration of how chart type selection affects the accuracy of insight extraction
+- ✅ Dataset sourced entirely from USDA 2022 Census of Agriculture for credibility and reproducibility
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Visualization Tool | Tableau |
+| Dataset | USDA Census of Agriculture (2022) |
+| Analysis Type | Comparative, Cross-category |
+| Output | PDF Report with visualizations |
+
+---
+
+## What I Learned
+
+- How to choose the right chart type for the question being asked — the wrong visual can hide the most important insight
+- That different livestock types follow fundamentally different economic scaling patterns, which has real policy implications
+- Using Tableau to build publication-quality visualizations from a government dataset with minimal preprocessing
+- How to write data findings as clear business conclusions rather than just describing what the chart shows
+- The value of verifying every number against its source before building visuals — data credibility matters as much as design
+
+---
+
+## Contact
+
+**Adetutu (Tutu) Adenusi**
+📧 aoadenus@cougarnet.uh.edu · 📞 (713) 724-2642
+🔗 [linkedin.com/in/adetutuadenusi](https://www.linkedin.com/in/adetutuadenusi)
+💻 [github.com/aoadenus](https://github.com/aoadenus)
