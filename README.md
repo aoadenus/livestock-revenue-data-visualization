@@ -1,6 +1,8 @@
 # 🐄 Livestock Revenue Data Visualization
 
+
 > Analyzes cattle and hog revenue patterns by farm size using 2022 USDA Census data — revealing how scale shapes agricultural economic performance.
+>View PDF to View The Project
 
 [![View Repository](https://img.shields.io/badge/📂_View_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aoadenus/livestock-revenue-data-visualization)
 
